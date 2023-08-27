@@ -1,0 +1,1 @@
+This is 2nd, extended page of bash script creation conversatin with chatgpt 3.5.
